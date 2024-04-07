@@ -1,3 +1,8 @@
+# 7 Faça um programa que leia 4 valores reais (﻿a vírgula b vírgula c texto  e  fim do texto d﻿) e determine:
+# A média aritmética;
+# A média harmônica (MH);
+# A média geométrica (MG);
+# A média quadrática (MQ).
 a = float(input("Digite o valor de a: ")) 
 b = float(input("Digite o valor de b: "))
 c = float(input("Digite o valor de c: "))
